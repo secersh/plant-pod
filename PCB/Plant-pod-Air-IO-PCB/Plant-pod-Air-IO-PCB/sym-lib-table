@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Plant-pod-Air-IO-PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/Plant-pod-Air-IO-PCB-rescue.lib)(options "")(descr ""))
+)
